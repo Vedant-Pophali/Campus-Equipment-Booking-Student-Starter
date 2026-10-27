@@ -43,3 +43,17 @@ mvn clean package
 - POST /api/bookings/{id}/cancel
 - GET /actuator/health
 Inventory is in memory and resets on restart. No database is required.
+
+## Task 1(Git Branching and History Evidence)
+![alt text](<Screenshot 2026-10-27 093336.png>)
+
+## Task 2,3,4 (Maven Build and Boundary Testing Evidence)
+![alt text](<Screenshot 2026-10-27 093401.png>)
+
+## Task 5(Docker Image Verification)
+![alt text](<Screenshot 2026-10-27 093432.png>)
+
+## Task 6(Kubernetes Scaling and Orchestration)
+![alt text](<Screenshot 2026-10-27 093951.png>)
+![alt text](<Screenshot 2026-10-27 093510.png>)
+![alt text](<Screenshot 2026-10-27 093536.png>)
