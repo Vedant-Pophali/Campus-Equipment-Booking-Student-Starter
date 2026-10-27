@@ -57,3 +57,10 @@ Inventory is in memory and resets on restart. No database is required.
 ![alt text](<Screenshot 2026-10-27 093951.png>)
 ![alt text](<Screenshot 2026-10-27 093510.png>)
 ![alt text](<Screenshot 2026-10-27 093536.png>)
+
+## Extra Task (Jenkins Evidence)
+![alt text](<Screenshot 2026-10-27 100612.png>)
+![alt text](<Screenshot 2026-10-27 100658.png>)
+![alt text](<Screenshot 2026-10-27 100728.png>)
+![alt text](<Screenshot 2026-10-27 100751.png>)
+![alt text](<Screenshot 2026-10-27 100815.png>)
