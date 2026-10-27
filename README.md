@@ -45,22 +45,22 @@ mvn clean package
 Inventory is in memory and resets on restart. No database is required.
 
 ## Task 1(Git Branching and History Evidence)
-![alt text](<Screenshot 2026-10-27 093336.png>)
+![alt text](<pics/Screenshot 2026-10-27 093336.png>)
 
 ## Task 2,3,4 (Maven Build and Boundary Testing Evidence)
-![alt text](<Screenshot 2026-10-27 093401.png>)
+![alt text](<pics/Screenshot 2026-10-27 093401.png>)
 
 ## Task 5(Docker Image Verification)
-![alt text](<Screenshot 2026-10-27 093432.png>)
+![alt text](<pics/Screenshot 2026-10-27 093432.png>)
 
 ## Task 6(Kubernetes Scaling and Orchestration)
-![alt text](<Screenshot 2026-10-27 093951.png>)
-![alt text](<Screenshot 2026-10-27 093510.png>)
-![alt text](<Screenshot 2026-10-27 093536.png>)
+![alt text](<pics/Screenshot 2026-10-27 093951.png>)
+![alt text](<pics/Screenshot 2026-10-27 093510.png>)
+![alt text](<pics/Screenshot 2026-10-27 093536.png>)
 
 ## Extra Task (Jenkins Evidence)
-![alt text](<Screenshot 2026-10-27 100612.png>)
-![alt text](<Screenshot 2026-10-27 100658.png>)
-![alt text](<Screenshot 2026-10-27 100728.png>)
-![alt text](<Screenshot 2026-10-27 100751.png>)
-![alt text](<Screenshot 2026-10-27 100815.png>)
+![alt text](<pics/Screenshot 2026-10-27 100612.png>)
+![alt text](<pics/Screenshot 2026-10-27 100658.png>)
+![alt text](<pics/Screenshot 2026-10-27 100728.png>)
+![alt text](<pics/Screenshot 2026-10-27 100751.png>)
+![alt text](<pics/Screenshot 2026-10-27 100815.png>)
